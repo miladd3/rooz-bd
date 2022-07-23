@@ -1,10 +1,10 @@
 <script setup>
-import envelope from '../assets/env.png'
+import envelope from '../assets/env.png';
 </script>
 
 <template>
   <div class="envelope">
-    <img :src="envelope" alt="envelope">
+    <img :src="envelope" alt="envelope" />
   </div>
 </template>
 
