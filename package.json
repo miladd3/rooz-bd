@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "js-confetti": "^0.10.2",
     "vue": "^3.2.37"
   },
   "devDependencies": {
